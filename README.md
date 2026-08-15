@@ -2,9 +2,19 @@
 
 This repository contains the MATLAB implementations, experiments, and outputs completed as part of the Digital Image Processing Lab.
 
-## Tasks
-
+## Image Processing Toolkit
 The repository is organized task-wise for easy access and documentation.
+A Python-based **Image Processing Toolkit** is also included in the repository.
+
+The GUI allows users to:
+
+- Select an input image
+- Choose an image-processing operation
+- Process the image
+- View the generated results
+- Save the processed images
+
+The toolkit is designed in a modular way so that more image-processing operations can be added in the future.
 
 ### Task 1
 
