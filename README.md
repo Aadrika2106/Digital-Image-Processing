@@ -24,3 +24,11 @@ Task 1 covers the following Digital Image Processing concepts:
 - Random Tambola ticket generation
 - RGB image processing and grayscale conversion
 - Histogram equalization
+
+### Task 2
+- Bit Plane Slicing
+- Global Histogram Equalization
+- Local Histogram Equalization
+- Adaptive Histogram Equalization
+- CLAHE
+- Digital Image Watermarking
