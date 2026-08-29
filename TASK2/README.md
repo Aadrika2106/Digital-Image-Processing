@@ -82,10 +82,10 @@ Task2/
 ├── bit_plane_slicing.m
 ├── histogram_equalization.m
 ├── watermarking.m
-├── Input/
-│   ├── autumn.png
-│   ├── cover.png
-│   └── watermark.jpeg
+├── autumn.png
+├── cover.png
+├── watermark.jpeg
+│   
 └── Output/
     ├── bit_plane_slicing_output.png
     ├── histogram_equalization_output.png
