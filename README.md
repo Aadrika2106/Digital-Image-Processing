@@ -17,9 +17,6 @@ The GUI allows users to:
 The toolkit is designed in a modular way so that more image-processing operations can be added in the future.
 
 ### Task 1
-
-Task 1 covers the following Digital Image Processing concepts:
-
 - Basic MATLAB programming
 - Random Tambola ticket generation
 - RGB image processing and grayscale conversion
@@ -32,3 +29,8 @@ Task 1 covers the following Digital Image Processing concepts:
 - Adaptive Histogram Equalization
 - CLAHE
 - Digital Image Watermarking
+
+### Task 3
+- Discrete Wavelet Transform (DWT)
+- Huffman Coding
+- Shannon-Fano Coding
