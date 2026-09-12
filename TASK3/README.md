@@ -33,17 +33,6 @@ The process involves:
 - Reconstructing the decoded image
 - Comparing the original and decoded images to verify lossless reconstruction
 
-Performance parameters are also calculated, including:
-
-- Entropy
-- Average code length
-- Coding efficiency
-- Redundancy
-- Compression ratio
-- Compression percentage
-- Encoding time
-- Decoding time
-- Memory usage
 
 ### 3. Shannon-Fano Coding
 
@@ -60,7 +49,7 @@ The process involves:
 - Reconstructing the decoded image
 - Verifying the decoded image against the original image
 
-Performance parameters are calculated for analysis, including:
+#### Performance parameters are calculated for analysis for both Huffman and Shannon Fano Coding, including:
 
 - Entropy
 - Average code length
@@ -76,7 +65,8 @@ Performance parameters are calculated for analysis, including:
 
 The experiments use the following input image:
 
-- `autumn.png` - Input image used for DWT, Huffman Coding, and Shannon-Fano Coding
+- `autumn.png` - Input image used for DWT
+- `clipart.jpg` - Input image used for Huffman Coding, and Shannon-Fano Coding
 
 ## Tools Used
 
