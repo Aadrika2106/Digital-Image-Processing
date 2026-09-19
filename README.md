@@ -34,3 +34,16 @@ The toolkit is designed in a modular way so that more image-processing operation
 - Discrete Wavelet Transform (DWT)
 - Huffman Coding
 - Shannon-Fano Coding
+
+### Task 4
+- First-Order Edge Detection
+  - Roberts Operator
+  - Sobel Operator
+  - Prewitt Operator
+  - Manual and MATLAB built-in implementations
+
+- Second-Order Edge Detection
+  - Laplacian of Gaussian (LoG)
+  - Difference of Gaussians (DoG)
+  - Zero-Crossing Edge Detection
+  - Manual and MATLAB-based implementations
